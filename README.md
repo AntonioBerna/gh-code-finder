@@ -21,5 +21,5 @@ In which will generate the ```founds``` directory which will contain the file ``
 # Todo
 
 - [ ] Add a GUI with the ability to see the repositories and various files without remembering everything by heart!
-- [ ]
+
 
