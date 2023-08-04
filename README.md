@@ -10,7 +10,7 @@ To use my script all you have to do is choose a username, a repository and final
 ./gh-code-finder.app <username> <repository> <filename>
 ```
 
-For example if I need the code that I used in the sensor in my [clap-detection]() project then I will use the following command:
+For example if I need the code that I used in the sensor in my [clap-detection](https://github.com/AntonioBerna/arduino-projects/tree/master/clap-detection) project then I will use the following command:
 
 ```Bash
 ./gh-code-finder.app AntonioBerna arduino-projects clap-detection/sensor.h
