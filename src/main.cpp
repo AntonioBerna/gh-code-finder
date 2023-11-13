@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <sys/stat.h>
 
-#include "finder.h"
+#include "finder.hpp"
 
 int main(int argc, const char **argv) {
     if (argc != 4) {

@@ -6,17 +6,17 @@ I wanted to make this script completely in C++ language because maybe in the fut
 
 To use my script all you have to do is choose a username, a repository and finally the file you want to download, in particular we have:
 
-```Bash
+```bash
 ./gh-code-finder.app <username> <repository> <filename>
 ```
 
 For example if I need the code that I used in the sensor in my [clap-detection](https://github.com/AntonioBerna/arduino-projects/tree/master/clap-detection) project then I will use the following command:
 
-```Bash
-./gh-code-finder.app AntonioBerna arduino-projects clap-detection/sensor.h
+```bash
+./gh-code-finder.app AntonioBerna arduino-projects clap-detection/sensor.hpp
 ```
 
-In which will generate the ```founds``` directory which will contain the file ```sensor.h``` !
+In which will generate the ```founds``` directory which will contain the file ```sensor.hpp``` !
 
 # Todo
 
